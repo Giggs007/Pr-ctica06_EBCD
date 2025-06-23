@@ -1,1 +1,1 @@
-# Pr-ctica06_EBCD
+# Practica06_EBCD
